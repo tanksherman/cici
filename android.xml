@@ -12,7 +12,7 @@
         <parameter name="chromeDriverPort" value="11000" />
         <classes>
             <class name="com.qa.tests.LoginTests"/>
-<!--            <class name="com.qa.tests.ProductTests"/>-->
+            <class name="com.qa.tests.ProductTests"/>
         </classes>
     </test>
 <!--    <test name="iPhone11">-->
